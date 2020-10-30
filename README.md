@@ -1,1 +1,1 @@
-# MXT_CHAIN
+# MXT-Chain
